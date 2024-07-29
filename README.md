@@ -7,7 +7,7 @@
 
 # NumberVerification
 
-Repository to describe, develop, document and test the NumberVerification API family
+Repository to describe, develop, document and test the NumberVerification API family.
 
 ## Scope
 
